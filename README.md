@@ -1,2 +1,2 @@
-# POO-2022.2-Teamgeraldomendes&JoséFerreira
+# POO-2022.2-TeamGeraldoMendes&JoséFerreira
 
