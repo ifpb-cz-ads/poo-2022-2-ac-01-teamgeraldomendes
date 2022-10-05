@@ -12,6 +12,7 @@ Para cada SO é necessário uma máquina virtual.
 R. JRE: O Java Runtime Environment contém tudo aquilo que um usuário
 comum precisa para executar uma aplicação Java (JVM e bibliotecas),
 como o próprio nome diz é o “Ambiente de execução Java”;
+
 JDK: O Java Development Kit é composto pelo JRE, compilador, e um conjunto de
 ferramentas úteis ao desenvolvedor Java.
 
